@@ -1,0 +1,50 @@
+{
+    "navbar":{
+        "home":"الرئيسية",
+        "products":"المنتجات",
+        "categories":"التصنيفات",
+        "brands":"براندات",
+        "cart":"عربة التسوق",
+        "wishList":"المفضلة",
+        "signIn":"تسجيل الدخول",
+        "signUp":"حساب جديد",
+        "logOut":"تسجيل الخروج",
+        "lang":"اللغة",
+        "english":"الانجليزية",
+        "arabic":"العربية"
+
+    },
+    "category":{
+        "PopularCat":"تسوق من التصنيفات الشائعة"
+    },
+    "product":{
+        "searchByName":"ابحث بالاسم"
+    },
+    "register":{
+        "namePlc":"ادخل الاسم",
+        "emailPlc":"ادخل البريد الالكترونى",
+        "passPlc":"ادخل الرقة السرى",
+        "rePassPlc":"ادخل اعادة الرقم السرى",
+         "regisBTN":"تسجيل البيانات"
+    },
+    "login":{
+        "loginNow":"تسجيل الدخول الان",
+        "loginBTN":"تسجيل الدخول"
+    },
+    "forgetPass": {
+        "ForgetPassword": "هل نسيت كلمة المرور",
+        "VerifyResetCode": "التحقق من الرمز",
+        "ResetPassword": "اعادة تعيين كلمة السر",
+        "SendCode":"ارسال الرمز",
+        "VerifyCode":"التحقق من الرمز",
+        "Reset":"اعادة الضبط"
+    },
+    "footer":{
+        "GetTheFreshCartApp":"احصل على تطبيق FreshCart",
+        "linkToDownload":"سنرسل لك رابطًا، افتحه على هاتفك لتنزيل التطبيق",
+        "ShareAppLink":"مشاركة رابط التطبيق",
+        "Paymentpartners":"شركاء الدفع",
+        "GetDeliveries":"احصل على عمليات التسليم مع FreshCart"
+    }
+
+}
